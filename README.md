@@ -1,5 +1,7 @@
 # Anonymization Project
 
+This repository offers a Python toolkit for ensuring k-anonymity and l-diversity in datasets. It includes functions for transforming data, checking privacy compliance, and handling various data types. Ideal for anonymizing sensitive data while retaining utility, the toolkit is open-source under the MIT License for broad usage.
+
 k-Anonymization & l-Diversity Toolkit
 This repository provides a comprehensive toolkit for ensuring that datasets meet k-anonymity and l-diversity privacy requirements. Designed for data privacy enthusiasts and professionals, the toolkit includes functions for transforming datasets, checking for privacy compliance, and handling various data types (numerical, categorical, and dates).
 
