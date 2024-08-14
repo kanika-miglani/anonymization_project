@@ -1,0 +1,9 @@
+pandas
+numpy
+random
+json
+python-dateutil
+plotly
+matplotlib
+scikit-learn
+scipy
